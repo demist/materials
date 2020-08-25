@@ -1,4 +1,37 @@
+Профессия 1С:Программист сегодня https://wonderland.v8.1c.ru/blog/professiya-1s-programmist-segodnya/
+Как мы в 1С: Предприятии работаем с моделями данных (или «Почему мы не работаем с таблицами?») https://wonderland.v8.1c.ru/blog/kak-my-v-1s-predpriyatii-rabotaem-s-modelyami-dannykh-ili-pochemu-my-ne-rabotaem-s-tablitsami-/
+С какой скоростью можно и нужно развивать бизнес-приложения? https://wonderland.v8.1c.ru/blog/s-kakoy-skorostyu-mozhno-i-nuzhno-razvivat-biznes-prilozheniya/
+
 Стандарты и методики разработки: https://its.1c.ru/db/v8std
+
+Изменения языка:
+Фоновые задания в файловом варианте (8.3.3) https://wonderland.v8.1c.ru/blog/rabota-fonovykh-zadaniy-v-faylovom-variante/
+Программная настройка начальной страницы (8.3.5) https://wonderland.v8.1c.ru/blog/programmnaya-nastroyka-nachalnoy-stranitsy/
+Редактирование данных во внешних источниках (8.3.5) https://wonderland.v8.1c.ru/blog/redaktirovanie-dannykh-vo-vneshnikh-istochnikakh/
+Асинхронные вызовы расширений браузеров и внешних компонентов (8.3.5) https://wonderland.v8.1c.ru/blog/asinkhronnye-vyzovy-rasshireniy-brauzerov-i-vneshnikh-komponentov/
+Получение данных динамического списка (8.3.6) https://wonderland.v8.1c.ru/blog/poluchenie-dannykh-dinamicheskogo-spiska/
+Новые функции работы со строками (8.3.6) https://wonderland.v8.1c.ru/blog/novye-funktsii-raboty-so-strokami/
+Работа с двоичными данными (8.3.9) https://wonderland.v8.1c.ru/blog/novye-instrumenty-dlya-raboty-s-dvoichnymi-dannymi-obespechivayut-kak-posledovatelnyy-dostup-k-danny/
+Обработка и оформление данных динамического списка (8.3.10) https://wonderland.v8.1c.ru/blog/obrabotka-i-oformlenie-dannykh-dinamicheskogo-spiska/
+Работа с двоичными данными (8.3.10) https://wonderland.v8.1c.ru/blog/rasshirenie-funktsionalnosti-raboty-s-dvoichnymi-dannymi/
+Строки с числами (8.3.10) https://wonderland.v8.1c.ru/blog/podderzhka-strok-trebuyushchikh-soglasovaniya-s-chislitelnymi/
+Побитовые операции с целыми числами (8.3.11) https://wonderland.v8.1c.ru/blog/pobitovye-operatsii-s-tselymi-chislami/
+Работа с файлами в веб-клиенте (8.3.13) https://wonderland.v8.1c.ru/blog/uluchshenie-raboty-s-faylami-v-veb-kliente/
+Решение систем линейных алгебраических уравнений (8.3.14) https://wonderland.v8.1c.ru/blog/mekhanizm-resheniya-sistem-lineynykh-algebraicheskikh-uravneniy/
+Динамические списки с произвольными запросами (8.3.14) https://wonderland.v8.1c.ru/blog/razvitie-dinamicheskikh-spiskov-s-proizvolnymi-zaprosami/
+Склонение словосочетаний с числительными (8.3.14) https://wonderland.v8.1c.ru/blog/sklonenie-slovosochetaniy-s-chislitelnymi/
+Унификация методов работы с файлами (8.3.15) https://wonderland.v8.1c.ru/blog/unifikatsiya-metodov-raboty-s-faylami/
+GROUPING SETS в языке запросов (8.3.16) https://wonderland.v8.1c.ru/blog/podderzhka-grouping-sets-v-yazyke-zaprosov/
+Синхронная асинхронность (8.3.18) https://wonderland.v8.1c.ru/blog/uluchsheniya-v-sintaksise-yazyka-1s-dlya-raboty-s-asinkhronnymi-funktsiyami/
+
+Интерфейс Такси:
+Зачем мы сделали интерфейс "Такси" https://wonderland.v8.1c.ru/blog/zachem-my-sdelali-interfeys-taksi/
+Пример адаптации формы к интерфейсу Такси https://wonderland.v8.1c.ru/blog/primer-adaptatsii-formy-k-interfeysu-taksi/
+Система навигации «1С:Бухгалтерии 8» с использованием возможностей интерфейса «Такси» https://wonderland.v8.1c.ru/blog/sistema-navigatsii-1s-bukhgalterii-8-s-ispolzovaniem-vozmozhnostey-interfeysa-taksi/
+Как свертываемые группы помогли улучшить юзабилити формы https://wonderland.v8.1c.ru/blog/kak-svertyvaemye-gruppy-pomogli-uluchshit-yuzabiliti-formy/
+Перевожу "1С:Бухгалтерию" на "Такси". Документ "Реализация товаров и услуг" https://wonderland.v8.1c.ru/blog/perevozhu-1s-bukhgalteriyu-na-taksi-dokument-realizatsiya-tovarov-i-uslug/
+Перевожу «1С:Бухгалтерию» на «Такси». Стандартные отчеты https://wonderland.v8.1c.ru/blog/perevozhu-1s-bukhgalteriyu-na-taksi-standartnye-otchety/
+Опыт перевода на Такси интерфейса 1С-Отчетности https://wonderland.v8.1c.ru/blog/opyt-perevoda-na-taksi-interfeysa-1s-otchetnosti/
 
 Расширения конфигурации (8.3.6):
 Документация https://its.1c.ru/db/v8318doc#bookmark:dev:TI000001513
@@ -17,10 +50,29 @@
 Интерфейс для разработчика (8.3.17) https://wonderland.v8.1c.ru/blog/novye-vozmozhnosti-v-interfeyse-dlya-razrabotchika/
 
 Обмен данными:
-JSon (8.3.6) https://wonderland.v8.1c.ru/blog/sredstva-raboty-s-json/ (8.3.7) https://wonderland.v8.1c.ru/blog/serializatsiya-prikladnykh-tipov-1s-predpriyatiya-v-json/ 
+JSon (8.3.6) https://wonderland.v8.1c.ru/blog/sredstva-raboty-s-json/ (8.3.7) https://wonderland.v8.1c.ru/blog/serializatsiya-prikladnykh-tipov-1s-predpriyatiya-v-json/
+HTTP-сервисы (8.3.5) https://wonderland.v8.1c.ru/blog/http-servisy-v-prikladnom-reshenii/
 OData (8.3.5) https://wonderland.v8.1c.ru/blog/avtomaticheskiy-rest-interfeys-prikladnykh-resheniy/ (8.3.8) https://wonderland.v8.1c.ru/blog/rasshirenie-podderzhki-protokola-odata/ 
 Интеграционная шина (beta) https://wonderland.v8.1c.ru/blog/integratsionnaya-shina/
 
 История данных (8.3.11):
 Описание механизма https://wonderland.v8.1c.ru/blog/istoriya-dannykh/
 Изменения в версии 8.3.13 https://wonderland.v8.1c.ru/blog/razvitie-mekhanizma-istoriya-dannykh/
+
+Система взаимодействия (8.3.10):
+Документация https://its.1c.ru/db/v8318doc#bookmark:dev:TI000001900
+Описание механизма https://wonderland.v8.1c.ru/blog/sistema-vzaimodeystviya/
+Сервер взаимодействия (8.3.11) https://wonderland.v8.1c.ru/blog/server-vzaimodeystviya/
+Передача информации с сервера (8.3.11) https://wonderland.v8.1c.ru/blog/peredacha-informatsii-s-servera/
+Пересылка файлов (8.3.14) https://wonderland.v8.1c.ru/blog/peresylka-faylov-s-pomoshchyu-soobshcheniy-sistemy-vzaimodeystviya-i-videokonferentsii-dlya-dvukh-i-/
+Демонстрация экрана (8.3.16) https://wonderland.v8.1c.ru/blog/demonstratsiya-ekrana-v-sisteme-vzaimodeystviya/
+Повышение удобства (8.3.16) https://wonderland.v8.1c.ru/blog/povyshenie-udobstva-raboty-s-sistemoy-vzaimodeystviya/
+Развитие в 8.3.17 https://wonderland.v8.1c.ru/blog/razvitie-sistemy-vzaimodeystviya/
+Боты (8.3.18) https://wonderland.v8.1c.ru/blog/boty-v-sisteme-vzaimodeystviya/
+Развитие в 8.3.18 https://wonderland.v8.1c.ru/blog/razvitie-sistemy-vzaimodeystviya-8318/
+
+1С:Исполнитель
+Описание инструмента https://wonderland.v8.1c.ru/blog/1c-ispolnitel/
+
+1С:Аналитика
+Описание инструмента https://wonderland.v8.1c.ru/blog/1s-analitika/
