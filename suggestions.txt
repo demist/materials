@@ -1,0 +1,26 @@
+Стандарты и методики разработки: https://its.1c.ru/db/v8std
+
+Расширения конфигурации (8.3.6):
+Документация https://its.1c.ru/db/v8318doc#bookmark:dev:TI000001513
+Описание механизма https://wonderland.v8.1c.ru/blog/rasshireniya/
+Изменения в версии 8.3.7 https://wonderland.v8.1c.ru/blog/web-i-http-servisy-v-rasshireniyakh/
+Изменения в версии 8.3.9 https://wonderland.v8.1c.ru/blog/razvitie-mekhanizma-rasshireniy/ https://wonderland.v8.1c.ru/blog/rasshirenie-moduley/
+Изменения в версии 8.3.11 https://wonderland.v8.1c.ru/blog/rasshirenie-dannykh/
+Изменения в версии 8.3.13 https://wonderland.v8.1c.ru/blog/razvitie-mekhanizma-rasshireniy-konfiguratsii/
+Изменения в версии 8.3.14 https://wonderland.v8.1c.ru/blog/razvitie-mekhanizma-rasshireniy-konfiguratsii-14/
+Изменения в версии 8.3.15 https://wonderland.v8.1c.ru/blog/razvitie-mekhanizma-rasshireniy-konfiguratsii-15/
+
+Механизмы для сопровождения:
+Улучшение журнала регистрации (8.3.5) https://wonderland.v8.1c.ru/blog/kak-my-uluchshili-zhurnal-registratsii/
+Новый механизм отладки (8.3.7) https://wonderland.v8.1c.ru/blog/novyy-mekhanizm-otladki/
+Механизм отображения ошибок (8.3.17) https://wonderland.v8.1c.ru/blog/razvitie-mekhanizma-otobrazheniya-oshibok/
+Интерфейс для разработчика (8.3.17) https://wonderland.v8.1c.ru/blog/novye-vozmozhnosti-v-interfeyse-dlya-razrabotchika/
+
+Обмен данными:
+JSon (8.3.6) https://wonderland.v8.1c.ru/blog/sredstva-raboty-s-json/ (8.3.7) https://wonderland.v8.1c.ru/blog/serializatsiya-prikladnykh-tipov-1s-predpriyatiya-v-json/ 
+OData (8.3.5) https://wonderland.v8.1c.ru/blog/avtomaticheskiy-rest-interfeys-prikladnykh-resheniy/ (8.3.8) https://wonderland.v8.1c.ru/blog/rasshirenie-podderzhki-protokola-odata/ 
+Интеграционная шина (beta) https://wonderland.v8.1c.ru/blog/integratsionnaya-shina/
+
+История данных (8.3.11):
+Описание механизма https://wonderland.v8.1c.ru/blog/istoriya-dannykh/
+Изменения в версии 8.3.13 https://wonderland.v8.1c.ru/blog/razvitie-mekhanizma-istoriya-dannykh/
