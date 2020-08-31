@@ -54,6 +54,7 @@ JSon (8.3.6) https://wonderland.v8.1c.ru/blog/sredstva-raboty-s-json/ (8.3.7) ht
 HTTP-сервисы (8.3.5) https://wonderland.v8.1c.ru/blog/http-servisy-v-prikladnom-reshenii/
 OData (8.3.5) https://wonderland.v8.1c.ru/blog/avtomaticheskiy-rest-interfeys-prikladnykh-resheniy/ (8.3.8) https://wonderland.v8.1c.ru/blog/rasshirenie-podderzhki-protokola-odata/ 
 Интеграционная шина (beta) https://wonderland.v8.1c.ru/blog/integratsionnaya-shina/
+Ссылка на полный дистрибутив КД 2.0 (на users.v8.1c.ru ее нет) https://its.1c.ru/db/files/1CITS/EXE/Conversion/2.1.8.2/setup/setup.exe
 
 История данных (8.3.11):
 Описание механизма https://wonderland.v8.1c.ru/blog/istoriya-dannykh/
